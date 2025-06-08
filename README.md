@@ -21,7 +21,7 @@ Inspired by [FAYA:80](https://www.fayaport80.com) and [FOSS United](https://foss
 - `/templates`: Registration form, schedule, promotion
 - `/assets`: Posters, stickers, and visuals
 - `/examples`: Real campus event forks
-- `LICENSE`: MIT by default
+- `LICENSE`: 
 
 ## 🛠 How to Use
 
